@@ -1,10 +1,10 @@
 ---
 draft: false
-name: "Marcell Ziemann"
-title: "Principal Strategist"
+name: "Nombre 2"
+title: "Posición 2"
 avatar: {
-    src: "https://images.unsplash.com/photo-1633332755192-727a05c4013d?&fit=crop&w=280",
-    alt: "Marcell Ziemann"
+    src: src/assets/hero.png,
+    alt: "Nombre 2"
 }
-publishDate: "2022-11-08 15:39"
+publishDate: "2022-11-07 15:39"
 ---

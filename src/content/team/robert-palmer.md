@@ -1,10 +1,10 @@
 ---
 draft: false
-name: "Robert Palmer"
-title: "Marketing Engineer"
+name: "Nombre 3"
+title: "Posición 3"
 avatar: {
-    src: "https://images.unsplash.com/photo-1535713875002-d1d0cf377fde?&fit=crop&w=280",
-    alt: "Robert Palmer"
+    src: src/assets/hero.png,
+    alt: "Nombre 3"
 }
-publishDate: "2022-11-09 15:39"
+publishDate: "2022-11-07 15:39"
 ---
